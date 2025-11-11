@@ -1,4 +1,4 @@
-## Hi Devs👋
+## Hi Devs
 
 <!--
 **moksh-m9u/moksh-m9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,10 +7,8 @@ Here are some ideas to get you started:
 
 
 -->
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: moksh1326@gmail.com
-- ⚡ Fun fact: I am a really great chef (if tea counts)
-
+AI-ML Dev
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moksh-937186314) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/moksh1326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moksh1326@gmail.com) 
 

@@ -15,6 +15,7 @@ I build end-to-end ML pipelines and I'm deep in the trenches of learning the cra
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/moksh067)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moksh-937186314)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/moksh1326)
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://mokshmannu.substack.com/)
 ---
 
 ## What I can build for you
@@ -23,7 +24,6 @@ Got a problem that involves data? Here's where I actually add value:
 
 - **Predictive models** — classification, regression, anomaly detection on tabular data
 - **Imbalanced data problems** — fraud detection, rare event classification, threshold tuning for real-world tradeoffs
-- **Computer vision** — image processing and CV pipelines with OpenCV and deep learning
 - **AI systems** — LLM-powered pipelines, agents, and workflows using LangChain, LangGraph, LangSmith
 - **End-to-end delivery** — from raw messy data to a deployed FastAPI service running in Docker
 
